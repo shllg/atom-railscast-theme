@@ -4,7 +4,7 @@
   "version": "0.3.0",
   "private": false,
   "description": "Atom syntax theme based on Ryan Bates (@rbates) RailsCasts TextMate theme",
-  "repository": "https://github.com/ericfreese/atom-railscast-theme",
+  "repository": "https://github.com/wwlsascha/atom-railscast-theme.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
